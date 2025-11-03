@@ -72,3 +72,4 @@ The app follows MVVM (Model-View-ViewModel) architecture with the following comp
 ## License
 
 This project is part of the Skull Knight's Checklist system and is Licensed under MIT LICENSE
+<!-- chore: scaffold initial project scenes and folders [2025-11-03] -->
