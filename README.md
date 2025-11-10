@@ -77,3 +77,4 @@ This project is part of the Skull Knight's Checklist system and is Licensed unde
 <!-- fix: player sprite not centered on collision shape [2025-11-06] -->
 <!-- chore: add placeholder sword attack animation frames [2025-11-06] -->
 <!-- feat: implement basic left/right movement and jump [2025-11-10] -->
+<!-- fix: jump height inconsistent on lower framerates [2025-11-10] -->
