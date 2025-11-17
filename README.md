@@ -79,3 +79,4 @@ This project is part of the Skull Knight's Checklist system and is Licensed unde
 <!-- feat: implement basic left/right movement and jump [2025-11-10] -->
 <!-- fix: jump height inconsistent on lower framerates [2025-11-10] -->
 <!-- refactor: move player input handling into _physics_process [2025-11-13] -->
+<!-- feat: add enemy skeleton patrol AI [2025-11-17] -->
