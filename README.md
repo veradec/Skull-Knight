@@ -83,3 +83,4 @@ This project is part of the Skull Knight's Checklist system and is Licensed unde
 <!-- fix: skeleton AI not turning at ledge edges [2025-11-17] -->
 <!-- refactor: extract patrol logic into EnemyBase class [2025-11-17] -->
 <!-- chore: add tilemap for first level layout [2025-11-17] -->
+<!-- feat: add sword slash hitbox with damage system [2025-11-22] -->
