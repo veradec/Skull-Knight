@@ -84,3 +84,4 @@ This project is part of the Skull Knight's Checklist system and is Licensed unde
 <!-- refactor: extract patrol logic into EnemyBase class [2025-11-17] -->
 <!-- chore: add tilemap for first level layout [2025-11-17] -->
 <!-- feat: add sword slash hitbox with damage system [2025-11-22] -->
+<!-- fix: hitbox active one frame too long causing double hit [2025-11-22] -->
