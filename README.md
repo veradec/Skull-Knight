@@ -87,3 +87,4 @@ This project is part of the Skull Knight's Checklist system and is Licensed unde
 <!-- fix: hitbox active one frame too long causing double hit [2025-11-22] -->
 <!-- feat: add health bar UI for player [2025-11-27] -->
 <!-- fix: health bar not updating on rapid damage [2025-12-03] -->
+<!-- chore: add screen shake on player taking damage [2025-12-03] -->
