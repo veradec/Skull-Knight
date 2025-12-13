@@ -89,3 +89,4 @@ This project is part of the Skull Knight's Checklist system and is Licensed unde
 <!-- fix: health bar not updating on rapid damage [2025-12-03] -->
 <!-- chore: add screen shake on player taking damage [2025-12-03] -->
 <!-- feat: add death and respawn logic for player [2025-12-08] -->
+<!-- feat: add coin collectible with counter UI [2025-12-13] -->
