@@ -91,3 +91,4 @@ This project is part of the Skull Knight's Checklist system and is Licensed unde
 <!-- feat: add death and respawn logic for player [2025-12-08] -->
 <!-- feat: add coin collectible with counter UI [2025-12-13] -->
 <!-- fix: coin counter not resetting between levels [2025-12-13] -->
+<!-- refactor: clean up signal connections in main scene [2025-12-19] -->
